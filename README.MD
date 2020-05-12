@@ -1,7 +1,7 @@
 <h1 align="center">
   GoMarketPlace
   <br /> <br />
-  <img src="https://github.com/DevTeles/GoMarketplace/tree/master/src/assets/GoMarketPlace.gif" />
+  <img src="https://github.com/DevTeles/GoMarketplace/blob/master/src/assets/GoMarketPlace.gif" />  
   <br /> <br />
 </h1>
 
